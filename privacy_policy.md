@@ -4,6 +4,7 @@
 Thank you for choosing Medeo! This Privacy Policy sets out how we collect, use, disclose, and protect your personal information in relation to your use of our Medeo mobile application (the "App").
 
 ** Collection of Information **
+
 We collect personal information, such as your name, email address, and payment information, when you use our App to purchase tickets to events. We also collect information about the events you attend and the tickets you purchase.
 
 ** Use of Information **
